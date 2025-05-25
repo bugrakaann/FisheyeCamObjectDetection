@@ -3,6 +3,11 @@
 A high-performance computer vision model for real-time traffic object detection, capable of identifying buses, bikes, cars, pedestrians, and trucks with exceptional speed and accuracy.
 
 ## 📊 Model Performance
+![indir (1)](https://github.com/user-attachments/assets/41aecddd-01a1-4344-ba25-ffbd98c2c3c9)
+![indir](https://github.com/user-attachments/assets/1e0e39ab-8b0e-4dc6-b15f-e144e46633b3)
+![indir (2)](https://github.com/user-attachments/assets/8f90f30a-d056-432a-936f-d2e8910e6cf7)
+![indir (3)](https://github.com/user-attachments/assets/b91c3108-d0bc-48f9-adaa-dbfe650eb2aa)
+
 
 ### Overall Metrics
 - **mAP@50**: 0.512 (51.2%)
