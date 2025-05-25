@@ -1,6 +1,8 @@
 # 🚀 YOLOv11x Fisheyed Camera Object Detection Model
 
 A high-performance computer vision model for real-time traffic object detection, capable of identifying buses, bikes, cars, pedestrians, and trucks with exceptional speed and accuracy.
+## 🛠️ Pretrained Model
+[Click To Download Our Model](https://drive.google.com/file/d/1hle4wYQPZwLSiQ-adff0hLOecgsOnS5-/view?usp=sharing)
 
 ## 📊 Model Performance
 ![indir (1)](https://github.com/user-attachments/assets/41aecddd-01a1-4344-ba25-ffbd98c2c3c9)
